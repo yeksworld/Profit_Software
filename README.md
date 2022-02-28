@@ -1,2 +1,2 @@
 # Profit_Software
-This repository is test about open browser with Robot Framework
+This repository contains open browser tests using the Robot Framework.
